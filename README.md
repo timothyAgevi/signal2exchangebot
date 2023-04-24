@@ -1,4 +1,4 @@
-# deltabot
+# bot
 
 Trading bot engine
 

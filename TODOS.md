@@ -6,3 +6,4 @@
 4. Ensure exchangeId is of ExchangeId type
 5. Delete config endpoint ✔️
 6. Add more / improve swagger documentation
+7.Resolve error "cannot find module @prisma/client
